@@ -14,3 +14,7 @@ string name2="Adrian Hernandez";
 hello2Function(name2);
 return 0;
 }
+
+int hello1Function(stringname1){
+  cout << "hello World "<< name1 << endl;return0;
+}
