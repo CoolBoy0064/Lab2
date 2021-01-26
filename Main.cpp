@@ -18,3 +18,7 @@ return 0;
 int hello1Function(stringname1){
   cout << "hello World "<< name1 << endl;return0;
 }
+
+int hello2Function(stringname2){
+  cout << "hello World "<< name2 << endl;return0;
+}
